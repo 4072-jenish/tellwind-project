@@ -1,0 +1,10 @@
+<svg width="60" height="60" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+            <g>
+                <ellipse class="custom-loader-icon custom-loader-icon-size-1 loader-icon-class-1"></ellipse>
+                <ellipse class="custom-loader-icon custom-loader-icon-size-1 loader-icon-class-2"></ellipse>
+                <ellipse class="custom-loader-icon custom-loader-icon-size-1 loader-icon-class-3"></ellipse>
+                <ellipse class="custom-loader-icon custom-loader-icon-size-2 loader-icon-class-4"></ellipse>
+                <ellipse class="custom-loader-icon custom-loader-icon-size-2 loader-icon-class-5"></ellipse>
+                <ellipse class="custom-loader-icon custom-loader-icon-size-2 loader-icon-class-6"></ellipse>
+            </g>
+        </svg>
